@@ -1,0 +1,41 @@
+Category,Item,Count
+LanguageHaveWorkedWith,JavaScript,14943
+LanguageHaveWorkedWith,SQL,12602
+LanguageHaveWorkedWith,HTML/CSS,12410
+LanguageHaveWorkedWith,TypeScript,10709
+LanguageHaveWorkedWith,Python,9590
+LanguageHaveWorkedWith,Bash/Shell (all shells),7244
+LanguageHaveWorkedWith,C#,6340
+LanguageHaveWorkedWith,Java,5982
+LanguageHaveWorkedWith,PHP,4644
+LanguageHaveWorkedWith,PowerShell,3438
+DatabaseHaveWorkedWith,PostgreSQL,11514
+DatabaseHaveWorkedWith,MySQL,8556
+DatabaseHaveWorkedWith,SQLite,7021
+DatabaseHaveWorkedWith,MongoDB,5930
+DatabaseHaveWorkedWith,Microsoft SQL Server,5870
+DatabaseHaveWorkedWith,Redis,5814
+DatabaseHaveWorkedWith,MariaDB,3994
+DatabaseHaveWorkedWith,Elasticsearch,3491
+DatabaseHaveWorkedWith,Dynamodb,2268
+DatabaseHaveWorkedWith,Oracle,1907
+PlatformHaveWorkedWith,Amazon Web Services (AWS),10871
+PlatformHaveWorkedWith,Microsoft Azure,6681
+PlatformHaveWorkedWith,Google Cloud,5537
+PlatformHaveWorkedWith,Cloudflare,3874
+PlatformHaveWorkedWith,Digital Ocean,3170
+PlatformHaveWorkedWith,Firebase,3025
+PlatformHaveWorkedWith,Vercel,2875
+PlatformHaveWorkedWith,Heroku,2002
+PlatformHaveWorkedWith,Netlify,1662
+PlatformHaveWorkedWith,Hetzner,1392
+WebframeHaveWorkedWith,Node.js,9230
+WebframeHaveWorkedWith,React,8999
+WebframeHaveWorkedWith,jQuery,4810
+WebframeHaveWorkedWith,Express,4408
+WebframeHaveWorkedWith,Next.js,4399
+WebframeHaveWorkedWith,ASP.NET CORE,4319
+WebframeHaveWorkedWith,Angular,4038
+WebframeHaveWorkedWith,Vue.js,3642
+WebframeHaveWorkedWith,ASP.NET,3094
+WebframeHaveWorkedWith,Spring Boot,2916

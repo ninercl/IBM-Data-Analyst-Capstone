@@ -1,0 +1,41 @@
+Category,Item,Count
+LanguageWantToWorkWith,JavaScript,11541
+LanguageWantToWorkWith,SQL,10944
+LanguageWantToWorkWith,TypeScript,10437
+LanguageWantToWorkWith,HTML/CSS,10016
+LanguageWantToWorkWith,Python,8919
+LanguageWantToWorkWith,Go,5661
+LanguageWantToWorkWith,Rust,5597
+LanguageWantToWorkWith,C#,5590
+LanguageWantToWorkWith,Bash/Shell (all shells),5582
+LanguageWantToWorkWith,Java,4048
+DatabaseWantToWorkWith,PostgreSQL,12193
+DatabaseWantToWorkWith,Redis,6384
+DatabaseWantToWorkWith,SQLite,6295
+DatabaseWantToWorkWith,MySQL,6204
+DatabaseWantToWorkWith,MongoDB,5618
+DatabaseWantToWorkWith,Microsoft SQL Server,4345
+DatabaseWantToWorkWith,Elasticsearch,3665
+DatabaseWantToWorkWith,MariaDB,3078
+DatabaseWantToWorkWith,Dynamodb,2154
+DatabaseWantToWorkWith,Supabase,1623
+PlatformWantToWorkWith,Amazon Web Services (AWS),10516
+PlatformWantToWorkWith,Microsoft Azure,6380
+PlatformWantToWorkWith,Google Cloud,5431
+PlatformWantToWorkWith,Cloudflare,4219
+PlatformWantToWorkWith,Digital Ocean,2908
+PlatformWantToWorkWith,Vercel,2776
+PlatformWantToWorkWith,Firebase,2720
+PlatformWantToWorkWith,Hetzner,1577
+PlatformWantToWorkWith,Supabase,1368
+PlatformWantToWorkWith,Netlify,1267
+WebframeWantToWorkWith,React,8223
+WebframeWantToWorkWith,Node.js,8096
+WebframeWantToWorkWith,Next.js,4458
+WebframeWantToWorkWith,ASP.NET CORE,4166
+WebframeWantToWorkWith,Vue.js,3903
+WebframeWantToWorkWith,Angular,3309
+WebframeWantToWorkWith,Express,3216
+WebframeWantToWorkWith,FastAPI,2823
+WebframeWantToWorkWith,Spring Boot,2674
+WebframeWantToWorkWith,Svelte,2559
